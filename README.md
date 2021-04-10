@@ -1,4 +1,4 @@
-# Simple Bankist website
+# Shopping cart
 
 ![](cart.png)
 <br />
